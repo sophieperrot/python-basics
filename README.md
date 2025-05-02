@@ -8,7 +8,7 @@
 
 ### Dependencies
 
-* uses Regex library
+* None
 
 ### Installion
 
@@ -28,7 +28,7 @@ Create a file in the same directory, then import file
 ```
 import utils
 ```
-* `num_vowels` function: inputs a string, outputs the number of vowels in the string
+* `count_vowels` function: inputs a string, outputs the number of vowels in the string
 ```
 utils.num_vowels("hello")
 
